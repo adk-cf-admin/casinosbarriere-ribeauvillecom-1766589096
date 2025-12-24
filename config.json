@@ -1,0 +1,201 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#111111",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#3b3b3b",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#BE9A33",
+            "yellow": "#bd7132",
+            "yellow-button": "#BE9A33",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#878787",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#bd7132",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Ribeauvillé",
+            "title": "Casino Barrière Ribeauvillé : machines à sous, roulette, blackjack, poker, hôtel et spa",
+            "description": "Découvrez le Casino Barrière Ribeauvillé : machines à sous, tables et jeux électroniques, événements et spectacles, bars et restaurants, expérience resort avec hôtel et bien‑être. Règles de visite, repères de mises, offres spéciales et FAQ pour organiser votre sortie.",
+            "canonical": "casinosbarriere-ribeauville.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1245",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-ribeauville.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1246",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1247"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1248",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Ribeauvillé Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Ribeauvillé — jeux, spectacles, restaurants et détente",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1249",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": -10,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1250",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Plus de 200 machines à sous variées.",
+                "Tables live : roulette, blackjack, poker.",
+                "Jeux électroniques pour un rythme rapide.",
+                "Tournois de poker et animations jeux.",
+                "Format resort : casino, spa, hôtel.",
+                "Restaurants et bars réunis sur place.",
+                "Spectacles et concerts selon la saison."
+            ],
+            "advantagesAfterText": "Le Casino Barrière Ribeauvillé séduit par une expérience « tout‑en‑un » : jeu, détente, gastronomie et soirées au même endroit. On peut y venir pour une sortie rapide ou un séjour complet. L’équilibre entre machines, tables et divertissements convient à tous les profils.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Mobile App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1251",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Mobile App",
+            "mobileIosImageTitle": "Mobile App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "About Casino Barrière Ribeauvillé",
+                "description1": "Le casino se distingue par un potentiel de gros jackpots et une diversité de jeux, du digital au live. L’univers resort renforce l’expérience : on transforme facilement une soirée gagnante en moment de détente et de plaisir.\n",
+                "items": [
+                    "Jackpot : 45 000 €+ attendu.",
+                    "Machines : mise dès 0,01 €.",
+                    "Blackjack : minimum 5 €."
+                ],
+                "description2": "Le Casino Barrière Ribeauvillé réunit le jeu et la détente dans un même lieu. On y retrouve une atmosphère moderne, lumineuse et confortable. L’offre de jeu convient aussi bien aux amateurs de machines qu’aux passionnés de tables. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1252",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "La soirée peut commencer par un dîner et se prolonger autour des jeux et des cocktails. Le site s’adapte aux couples, aux amis et aux petites célébrations. L’ambiance reste élégante et vivante, avec une montée d’émotions au fil des parties. Les animations apportent un supplément de fête et de variété. L’esprit resort transforme la visite en vraie parenthèse de bien‑être. Le service met l’accent sur l’accueil et la fluidité de l’expérience. Au final, c’est une adresse polyvalente pour jouer, se divertir et se relaxer."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Barrière Ribeauvillé : style, ambiance et expérience resort",
+                "description": "<p>\nLe Casino Barrière Ribeauvillé se vit comme un casino moderne au format resort, où l’on vient autant pour l’expérience globale que pour le jeu. Les espaces donnent souvent une impression de clarté et d’ouverture, avec une élégance contemporaine qui évite la surcharge. L’ambiance est pensée pour être chic sans rigidité, afin que chacun se sente à l’aise. Cette identité fonctionne particulièrement bien avec la présence de zones de détente et de restauration à proximité.\n\n<\/p>\n<br>\n\n\n<p>\nLe rythme de la visite est soutenu par des horaires pratiques : on peut passer en journée pour une session tranquille, puis profiter d’une montée en intensité en soirée. Plus la nuit avance, plus l’énergie devient festive, sans perdre le confort. Les débutants apprécient l’entrée en matière via les jeux électroniques, plus accessibles et rapides à prendre en main. Les amateurs de tradition privilégient les tables, où l’on vient chercher stratégie, tension et adrénaline.\n\n<\/p>\n<br>\n<p>\nLes bars jouent un rôle essentiel : ils permettent de faire une pause, de discuter et de savourer un café ou un cocktail sans casser le tempo. C’est souvent là que l’on “recharge” l’ambiance avant de retourner aux machines ou aux tables. Un espace bar convivial rend la soirée plus fluide, surtout en groupe. Pour une sortie longue, alterner jeu et pause est la meilleure façon de rester confortable.\n\n<\/p>\n<br>\n<p>\nLa présence d’un hôtel et d’infrastructures bien‑être transforme facilement la sortie en séjour. Dans ce scénario, le casino s’inscrit dans une journée complète, plutôt que d’être l’unique activité. Dîner, jeu, spa ou nuit sur place : la formule plaît pour les escapades. L’avantage, c’est la simplicité : tout est réuni au même endroit.\n\n<\/p>\n<br>\n<p>\nLes événements et divertissements donnent au casino une dimension de lieu vivant, avec une programmation qui évolue selon les périodes. On y retrouve généralement concerts, spectacles, humour et soirées à thème, qui dynamisent les week‑ends. Cela attire aussi un public qui vient “sortir” avant tout, et pas seulement jouer. Résultat : une atmosphère plus festive et mémorable.\n\n<\/p>\n<br>\n<p>\nEnfin, la fidélité et les outils numériques renforcent l’idée de revenir. La marque propose un programme à points et des privilèges, complétés par des solutions digitales pour une expérience plus moderne. Les visiteurs réguliers peuvent ainsi bénéficier d’offres et d’avantages plus personnalisés. Au final, le Casino Barrière Ribeauvillé associe jeu, détente et émotion dans un seul univers.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPersonnel, langues, paiements et retrait des gains au Casino Barrière Ribeauvillé\n<\/h3>\n\n<p>\nLe personnel du Casino Barrière Ribeauvillé est généralement formé pour accompagner aussi bien les débutants que les habitués. À l’accueil et en salle, les équipes répondent aux questions pratiques : accès, orientation, utilisation de la carte de fidélité et des services électroniques. Le style de service reste discret, ce qui protège l’ambiance et la confidentialité, deux éléments importants dans un casino. En soirée, quand l’affluence augmente, l’organisation et la présence des équipes rendent l’expérience plus fluide.\n\n<\/p>\n<br>\n\n\n<p>\nCôté langues, le français est naturellement la base. Dans une destination touristique, il est fréquent de trouver un niveau d’anglais conversationnel, et parfois de l’allemand selon les profils d’équipe. Pour être efficace, mieux vaut formuler une demande simple et directe, surtout en période chargée. La communication en casino privilégie la clarté : règles, sécurité, et confort des visiteurs.\n\n<\/p>\n<br>\n<p>\nLa monnaie utilisée est l’euro, et les moyens de paiement classiques dans ce type d’établissement sont l’espèce et la carte bancaire. Dans les bars et restaurants, le paiement se fait en général par carte ou en cash, tandis que les caisses de jeu suivent leurs propres procédures pour convertir et gérer les crédits de jeu conformément au règlement. Certains resorts proposent aussi des solutions digitales reliées à la fidélité via une application, mais les fonctionnalités exactes dépendent des paramètres du moment. Pour des montants importants, il est conseillé de se renseigner sur les plafonds et les exigences d’identification.\n\n<\/p>\n<br>\n<p>\nLa question des distributeurs et du change est très pratique. Dans beaucoup de complexes, un distributeur peut se trouver sur place ou à proximité, mais les frais et limites dépendent de la banque. Le service de change, lui, est moins systématique dans les casinos, d’où l’intérêt de prévoir des euros à l’avance ou d’utiliser une carte. Cela évite les interruptions et aide à mieux maîtriser son budget.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains varie selon le type de jeu. Sur les machines et jeux électroniques, les gains sont généralement réglés via la caisse ou des solutions automatisées, alors qu’aux tables on suit la logique des jetons puis de l’encaissement. Pour des gains significatifs, une vérification d’identité peut être demandée, avec présentation d’un document. C’est une pratique standard liée à la sécurité, à la conformité et au jeu responsable.\n\n<\/p>\n<br>\n<p>\nEnfin, la fiscalité des gains revient souvent. Dans la plupart des situations courantes, les gains de jeux d’un particulier ne sont pas traités comme un revenu classique, mais des nuances peuvent exister si l’activité devient régulière ou assimilable à une pratique professionnelle. Pour des montants très élevés, des procédures internes de traçabilité peuvent aussi s’appliquer. En cas de gains importants ou de résultats réguliers, un avis fiscal personnalisé reste la meilleure option.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite au Casino Barrière Ribeauvillé : tenue, conditions et accès\n<\/h3>\n\n<p>\nLa visite du Casino Barrière Ribeauvillé commence par le respect des conditions d’entrée : l’accès aux salles de jeux est réservé aux adultes. Une pièce d’identité est généralement demandée à l’entrée, ce qui fait partie des mesures normales de sécurité. À l’intérieur, l’objectif est de préserver une ambiance agréable pour tous : les comportements agressifs, les conflits et le bruit excessif ne sont pas acceptés. La photo et la vidéo peuvent être limitées en salle de jeux afin de protéger la confidentialité et la sécurité. En cas d’ivresse manifeste, l’accès peut être refusé, dans une logique de service responsable. Les personnes faisant l’objet d’une interdiction ou d’une limitation de jeu ne peuvent pas entrer. Le cadre réglementaire vise à garantir une expérience sereine, sécurisée et équitable. La tenue attendue est généralement soignée : certains styles très sportifs ou trop décontractés peuvent poser problème, surtout le soir. Prévoyez votre document et une tenue adaptée à une sortie. En voiture, mieux vaut anticiper l’heure d’arrivée pour la facilité de stationnement. Sans voiture, le taxi ou un transfert reste souvent la solution la plus simple.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue \/ dress code :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTenue soignée recommandée ; le soir, un style smart casual est idéal.\n\n<\/li>\n            <li>• \nÉvitez la tenue de plage et l’aspect “sport pur” pour éviter tout refus.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’entrée :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès 18+ uniquement.\n\n<\/li>\n            <li>• \nPièce d’identité obligatoire ; contrôle possible à l’entrée des salles.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdits et restrictions :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès interdit en cas d’interdiction\/limitation de jeu.\n\n<\/li>\n            <li>• \nPhotos\/vidéos en salle : à éviter sans autorisation.\n\n<\/li>\n            <li>• \nRespect des autres clients : pas de nuisance, pas d’agressivité.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement et arrivée :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEn période chargée, arrivez plus tôt pour stationner sereinement.\n\n<\/li>\n            <li>• \nLes soirs d’événements, prévoyez un temps de trajet supplémentaire.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccès sans voiture :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLe taxi depuis un point de transport proche est souvent le plus simple.\n\n<\/li>\n            <li>• \nPour une soirée tardive, anticipez le trajet retour.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité Le Carré VIP : fonctionnement et privilèges\n<\/h3>\n\n<p>\nLe Carré VIP est le programme de fidélité qui rend l’expérience au Casino Barrière Ribeauvillé plus simple et plus avantageuse pour les visiteurs réguliers. L’idée centrale est d’accélérer l’accès, de personnaliser les offres et de récompenser la fréquentation via des points. Le membre cumule des points sur son activité et peut les transformer en avantages concrets. Le programme s’appuie aussi sur le digital : via l’application, on suit son statut, ses points et ses privilèges. C’est particulièrement utile pour ceux qui aiment gérer leur budget et visualiser leur progression. Un point fort : la logique “global resort”, car les points peuvent être liés au jeu mais aussi aux espaces bar\/restaurant selon les règles en vigueur.\n\n<\/p>\n<br>\n\n\n<p>\nLe Carré VIP fonctionne avec des statuts, du niveau d’entrée aux niveaux plus privilégiés. Plus la fréquentation et l’activité sont régulières, plus les avantages deviennent visibles. On retrouve généralement des récompenses, des cadeaux et des invitations, avec des services plus personnalisés aux statuts élevés. L’objectif est de réduire la part “administrative” et d’augmenter la part plaisir. Avec le temps, les offres gagnent en pertinence, car elles s’alignent davantage sur les habitudes du client.\n\n<\/p>\n<br>\n<p>\nL’inscription est généralement gratuite, ce qui constitue déjà un bénéfice : on obtient un outil de fidélité sans frais d’adhésion. Pour respecter le cadre réglementaire, l’identité doit être confirmée avec des informations exactes. Une fois inscrit, on utilise une carte physique ou sa version dématérialisée sur application. Ensuite, il suffit de l’utiliser à chaque visite pour activer le cumul de points et la reconnaissance du statut.\n\n<\/p>\n<br>\n<p>\nLe Carré VIP permet de convertir les points en avantages utiles “au moment où l’on en a envie”. Selon les options disponibles, les points peuvent être transformés en crédits de jeu, en récompenses ou être utilisés dans des espaces de service du resort. Cela évite de “cumuler pour cumuler” et rend la fidélité plus tangible.\n\n<\/p>\n<br>\n<p>\nEnfin, le programme apporte aussi une dimension de statut. Les niveaux élevés sont généralement associés à des invitations plus exclusives, à un service plus personnalisé et à des offres réservées. Pour les visiteurs non occasionnels, Le Carré VIP devient un prolongement naturel de leur façon de sortir : moins de contraintes, plus d’avantages, et une expérience plus fluide.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nÂge : 18+ (condition d’accès aux salles de jeux).\n\n<\/li>\n            <li>• \nCoût : 0 € (inscription généralement gratuite).\n\n<\/li>\n            <li>• \nIdentité : pièce d’identité pour validation des informations.\n\n<\/li>\n            <li>• \nCarte : support physique et\/ou version digitale via application.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatuts (niveaux) et obtention :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBlanc : statut de départ après inscription.\n\n<\/li>\n            <li>• \nArgent : atteint avec une activité plus régulière et des points cumulés.\n\n<\/li>\n            <li>• \nOr : destiné aux clients fréquents avec une activité soutenue.\n\n<\/li>\n            <li>• \nNoir : statut le plus privilégié pour une implication maximale.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvantages et bonus\n<\/h4>\n\n <ul>\n            <li>• \nAccès facilité grâce à l’identification fidélité.\n\n<\/li>\n            <li>• \nCumul de points sur le jeu et, selon conditions, sur les espaces bar\/restaurant.\n\n<\/li>\n            <li>• \nConversion des points en récompenses (crédits de jeu\/cadeaux selon options).\n\n<\/li>\n            <li>• \nOffres personnalisées et invitations selon le statut.\n\n<\/li>\n\t    <li>• \nSuivi digital : statut, points et avantages dans l’application.\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Casino Barrière Ribeauvillé",
+                "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus, jackpots et offres spéciales au Casino Barrière Ribeauvillé\n<\/h3>\n\n<p>\nEn dehors du programme de fidélité, le Casino Barrière Ribeauvillé mise sur des leviers très concrets : jackpots, nouveautés de jeu, soirées saisonnières et événements qui transforment une simple visite en vraie sortie. Le moteur le plus visible reste le jackpot progressif sur certaines machines : il crée une promesse de gain important même lors d’une session raisonnable. Les nouveautés de parc renforcent aussi l’attrait : nouveaux thèmes, nouvelles mécaniques, nouvelles sensations.\n\n<\/p>\n<br>\n\n\n<p>\nLes périodes festives ajoutent une dimension “événementielle” avec des soirées à thème et une ambiance plus marquée dans les espaces bar et restauration. Le poker occupe également une place à part, grâce aux tournois et séries qui attirent les joueurs en quête de compétition. Enfin, l’approche resort favorise des offres combinées : dîner, spa, nuit et une part de jeu intégrée sous forme de crédits ou tickets.\n\n<\/p>\n<br>\n<p>\nPour ceux qui veulent maximiser une soirée, la formule “jeu + spectacle + restauration” crée un scénario complet, sans logistique compliquée. Et pour les visiteurs qui aiment maîtriser leur budget, les offres avec valeur incluse (tickets ou crédits fixes) sont particulièrement appréciées. Ici, les promotions ne sont pas seulement financières : elles construisent des expériences.\n\n<\/p>\n<br>\n\n <ul>\n            <li>• \nJackpot progressif sur machines à sous :\n“prochain jackpot” autour de 45 037 € sur une machine\/une série donnée.\n\n<\/li>\n            <li>• \nNouveaux jeux et nouvelles machines :\nannonces de “nouvelles machines et nouveaux jeux” à une date donnée.\n\n<\/li>\n            <li>• \nTournois et séries de poker :\ncalendrier d’événements (buy‑in et formats selon le tournoi).\n\n<\/li>\n            <li>• \nSoirées saisonnières et périodes festives :\nsoirées de fin d’année et programmation spéciale.\n\n<\/li>\n\t    <li>• \nOffres “séjour + jeu”: tickets de jeu inclus 2 × 10 € dans certaines offres\/coffrets.\n<\/li>\n\t    <li>• \nTarifs spéciaux spectacles\/dîners selon événements : billets “à partir de … €” dans l’agenda.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino Barrière Ribeauvillé : machines, roulette, blackjack et poker\n<\/h3>\n\n<p>\nLe Casino Barrière Ribeauvillé se structure autour de trois grands axes : machines à sous, jeux électroniques et tables traditionnelles. La majorité des visiteurs commence par les machines, car c’est le format le plus intuitif et le plus varié : thèmes, bonus, jackpots progressifs, et plusieurs styles de jeu. Les joueurs en quête de rythme privilégient souvent les versions électroniques de la roulette et du blackjack, rapides et faciles à prendre en main, sans la pression d’une table live.\n\n<\/p>\n<br>\n\n\n<p>\nLes tables attirent ceux qui recherchent une expérience plus “classique” : stratégie, concentration et gestion du risque. La roulette anglaise apporte le plaisir du jeu traditionnel, tandis que le blackjack est une discipline de décisions où la rigueur compte beaucoup. Le poker, lui, se distingue car il oppose les joueurs entre eux, ce qui crée une dimension compétitive très appréciée, notamment en tournoi.\n\n<\/p>\n<br>\n<p>\nL’intérêt majeur est de pouvoir composer sa soirée : machines pour s’échauffer, roulette électronique pour accélérer, puis tables ou poker pour terminer sur une montée d’adrénaline. Ce mélange plaît à des profils très différents. Pour une première visite, il est préférable de choisir un jeu adapté à son tempo : électronique pour la vitesse, tables pour le rituel. Et comme toujours, le meilleur conseil reste de jouer de manière responsable, avec un budget fixé à l’avance.\n\n<\/p>\n<br>\n\n\n\n\n\n <ul>\n            <li>• \nMachines à sous : grande variété, bonus, jackpots progressifs ; jeu autonome.\n\n<\/li>\n            <li>• \nRoulette anglaise (tables) : format classique, nombreuses mises possibles, vraie ambiance casino.\n\n<\/li>\n            <li>• \nRoulette anglaise électronique : rythme rapide, interface claire, idéale pour débuter.\n\n<\/li>\n            <li>• \nBlackjack (tables) : jeu de décisions, stratégie et discipline de bankroll.\n\n<\/li>\n\t    <li>• \nBlackjack électronique : version rapide, accès simple, sans attente.\n\n<\/li>\n\t    <li>• \nPoker Texas Hold’em : compétition entre joueurs, tournois et sessions selon agenda.\n\n<\/li>\n\t    <li>• \nUltimate Poker (selon disponibilité) : poker contre le casino, plus direct pour démarrer.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises minimales et maximales au Casino Barrière Ribeauvillé\n<\/h3>\n\n<p> \nComprendre les mises permet de jouer confortablement et de maîtriser son budget. Au Casino Barrière Ribeauvillé, les minima rendent l’entrée accessible, tandis que les maxima dépendent de la table, des limites du jour et du type de jeu. Le tableau ci‑dessous sert de repère rapide : il aide à choisir entre machines, électroniques, tables et poker. Pour une session à gros budget, il est conseillé de vérifier les limites auprès de la caisse ou du personnel, car les plafonds peuvent évoluer selon l’affluence et les événements.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#BE9A33; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">dès 0,01 € par spin <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">selon la machine et ses limites <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">dès 1 € (souvent)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">selon le terminal<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">dès 2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">selon les limites de table<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">dès 5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> selon les limites de table<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Boule (si disponible)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">dès 1 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">selon les limites de table<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em (cash\/tournois)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">caves\/buy‑ins dès 100 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">selon table\/événement<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nÉvénements et divertissements au Casino Barrière Ribeauvillé : spectacles, concerts et animations régulières\n<\/h3>\n\n<p>\nLe Casino Barrière Ribeauvillé ne se limite pas aux salles de jeux : c’est aussi un lieu de sorties et d’émotions en soirée. L’ambiance est renforcée par une programmation d’événements : concerts, spectacles, artistes invités et soirées saisonnières. Pour le public, c’est un avantage clair : on peut venir pour jouer, puis profiter d’une vraie expérience de divertissement, avec musique, scène et atmosphère festive. Les week‑ends et les périodes de calendrier amplifient encore ce côté “sortie nocturne” sans multiplier les déplacements.\n\n<\/p>\n<br>\n\n\n<p>\nLes animations se déclinent généralement en plusieurs formats. D’abord, les programmes scéniques : humour, concerts, magie, théâtre, et parfois des dîners‑spectacles qui marient repas et show. Ensuite, les formats plus légers : soirées musicales en ambiance lounge, animations dans les bars, et une atmosphère pensée pour les groupes. Enfin, les événements “jeu” : notamment les tournois de poker, qui créent un esprit de compétition et de communauté.\n\n<\/p>\n<br>\n<p>\nPour ceux qui cherchent un équivalent de club, il faut plutôt regarder du côté du music lounge : ce n’est pas un club classique avec un grand dancefloor permanent, mais un univers lounge avec musique, cocktails et programmation selon les dates. L’avantage est la polyvalence : musique → bar → jeux → fin de soirée, sans changer de lieu. C’est un format élégant et accessible.\n\n<\/p>\n<br>\n\n <ul>\n            <li>• \nConcerts et live : programmation saisonnière, soirées événement.\n\n<\/li>\n            <li>• \nHumour, théâtre, magie : spectacles variés pour enrichir la sortie.\n\n<\/li>\n            <li>• \nDîners‑spectacles : repas + show, idéal pour célébrer.\n\n<\/li>\n            <li>• \nMusic lounge : ambiance lounge, musique, cocktails, esprit nocturne.\n\n<\/li>\n\t    <li>• \nSoirées à thème : fêtes calendaires, formats spéciaux, décor et ambiance.\n\n<\/li>\n\t    <li>• \nTournois de poker : compétition, communauté, dynamique sportive.\n\n<\/li>\n\t    <li>• \nÉvénements de groupe : privatisations et soirées d’entreprise sur demande.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, bars et détente au Casino Barrière Ribeauvillé\n<\/h3>\n\n<p>\nLe Casino Barrière Ribeauvillé est apprécié parce que la détente y est aussi importante que le jeu. La restauration structure la soirée : on peut commencer par un dîner, faire une pause cocktail, puis revenir aux machines ou aux tables. Cela répond aux visiteurs qui voient le casino comme un lieu de sortie et d’ambiance, pas uniquement comme une salle de jeu. Les espaces de restauration et les bars permettent de prolonger la visite sans fatigue et sans précipitation.\n\n<\/p>\n<br>\n\n\n<p>\nLes restaurants s’adaptent à différents scénarios. Un format plus “brasserie” convient aux groupes et aux pauses gourmandes, tandis qu’un restaurant plus panoramique s’adresse à ceux qui recherchent une expérience plus marquante. Dans ce cadre, on vient autant pour l’assiette que pour l’atmosphère : vue, lumière, service, et sentiment d’une vraie soirée. C’est particulièrement recherché en couple ou pour célébrer une occasion.\n\n<\/p>\n<br>\n<p>\nLes bars renforcent l’esprit nocturne. Ils servent de sas entre jeu et détente : un verre après une session, un café avant de repartir, ou un moment calme après un spectacle. Souvent, ces zones deviennent le point social où l’on se retrouve et où l’on planifie la suite de la soirée. Et pour une escapade plus longue, l’hôtel et le bien‑être complètent l’expérience : on transforme une sortie en séjour reposant.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nLa Brasserie : restaurant polyvalent, cuisine “confort”, idéal en soirée.\n\n<\/li>\n            <li>• \nLe Belvédère : restaurant orienté vue et ambiance, parfait pour une occasion.\n\n<\/li>\n            <li>• \nCafé des Sports : format café\/sports‑bar, pauses légères et conviviales.\n\n<\/li>\n            <li>• \nBar côté machines : pause rapide entre deux sessions.\n\n<\/li>\n\t    <li>• \nMusic lounge (Cosmos) : cocktails et soirées musicales en mode lounge.\n\n<\/li>\n\t    <li>• \nHôtel du resort : dormir sur place, prolonger la sortie sereinement.\n\n<\/li>\n\t    <li>• \nBalnéo & spa : récupération, relaxation, touche finale du séjour.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Peut‑on venir en groupe si tout le monde ne joue pas ?",
+                    "answer": "Oui, c’est courant : certains jouent, d’autres profitent du bar ou du restaurant. Il faut simplement respecter les règles d’accès aux salles de jeux (âge).\n\n\n"
+                },
+                {
+                    "title": "Y a‑t‑il une limite de temps sur place ?",
+                    "answer": "Il n’y a généralement pas de limite stricte, mais le respect du règlement et du jeu responsable est obligatoire. En cas de non‑respect, l’établissement peut demander de partir.\n\n\n"
+                },
+                {
+                    "title": "Peut‑on entrer le jour de ses 18 ans ?",
+                    "answer": "Souvent oui, si l’âge est atteint officiellement et si la pièce d’identité le prouve. Il vaut mieux présenter un document original.\n\n\n"
+                },
+                {
+                    "title": "Que faire en cas d’objet perdu ?",
+                    "answer": "Contactez immédiatement l’accueil ou la sécurité. Une procédure “objets trouvés” existe généralement, et la rapidité de déclaration aide beaucoup.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1253",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Ribeauvillé"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
